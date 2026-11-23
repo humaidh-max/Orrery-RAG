@@ -1,0 +1,6 @@
+{
+  "name": "Orrery RAG Workbench",
+  "description": "Enterprise Retrieval-Augmented Generation engine for strict technical question-answering over heterogeneous document corpora with necessity-principle citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
